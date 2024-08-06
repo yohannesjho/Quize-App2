@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: blueviolet;
+}
+
+.correct {
+  background-color: aqua;
+}
+
+.wrong {
+  background-color: brown;
+}
